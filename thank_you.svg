@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(1,165)" font-size="73" style="fill:rgb(226, 228, 24)">Thank you</text>
+<text transform="translate(34,81)" font-size="73" style="fill:rgb(50, 101, 142)">Dziękuję</text>
+<text transform="translate(76,123)" font-size="59" style="fill:rgb(119, 209, 83)">谢谢</text>
+<text transform="translate(44,198)" font-size="42" style="fill:rgb(58, 83, 139)">Xie xie</text>
+<text transform="translate(297,195)" font-size="41" style="fill:rgb(139, 214, 70)">شكرا</text>
+<text transform="translate(202,123)" font-size="32" style="fill:rgb(70, 7, 90)">Chokran</text>
+<text transform="translate(8,26)" font-size="31" style="fill:rgb(35, 137, 142)">Спасибо</text>
+<text transform="translate(295,18)" font-size="22" style="fill:rgb(62, 73, 137)">Spasibo</text>
+<text transform="translate(174,22)" font-size="22" style="fill:rgb(31, 149, 139)">धन्यवाद</text>
+<text transform="translate(398,110) rotate(-90)" font-size="22" style="fill:rgb(61, 77, 138)">Gracias</text>
+<text transform="translate(204,89)" font-size="10" style="fill:rgb(35, 138, 141)">Teşekkür ederim</text>
+<text transform="translate(11,111)" font-size="10" style="fill:rgb(35, 137, 142)">Merci</text>
+<text transform="translate(154,108)" font-size="10" style="fill:rgb(45, 178, 125)">Grazie</text>
+<text transform="translate(214,154)" font-size="10" style="fill:rgb(68, 191, 112)">Obrigado</text>
+<text transform="translate(138,172)" font-size="10" style="fill:rgb(56, 89, 140)">Danke</text>
+<text transform="translate(12,182)" font-size="10" style="fill:rgb(226, 228, 24)">ありがとう</text>
+<text transform="translate(240,32)" font-size="10" style="fill:rgb(50, 101, 142)">Arigato</text>
+<text transform="translate(220,177)" font-size="10" style="fill:rgb(122, 209, 81)">Cảm ơn</text>
+<text transform="translate(1,94)" font-size="10" style="fill:rgb(67, 62, 133)">ขอบคุณ</text>
+<text transform="translate(222,96)" font-size="10" style="fill:rgb(70, 48, 126)">Terima kasih</text>
+<text transform="translate(219,187)" font-size="10" style="fill:rgb(149, 216, 64)">Salamat</text>
+<text transform="translate(26,74) rotate(-90)" font-size="10" style="fill:rgb(37, 171, 130)">감사합니다</text>
+<text transform="translate(8,194) rotate(-90)" font-size="10" style="fill:rgb(176, 221, 47)">Kamsahamnida</text>
+<text transform="translate(343,117)" font-size="10" style="fill:rgb(72, 22, 104)">Shukriya</text>
+<text transform="translate(232,198)" font-size="10" style="fill:rgb(61, 77, 138)">Gràcies</text>
+<text transform="translate(292,63)" font-size="10" style="fill:rgb(62, 74, 137)">Tack</text>
+<text transform="translate(68,116) rotate(-90)" font-size="10" style="fill:rgb(37, 131, 142)">Děkuji</text>
+<text transform="translate(149,33)" font-size="10" style="fill:rgb(72, 26, 108)">ευχαριστώ</text>
+<text transform="translate(16,70) rotate(-90)" font-size="10" style="fill:rgb(49, 181, 123)">Asante</text>
+<text transform="translate(330,30)" font-size="10" style="fill:rgb(38, 130, 142)">Köszönöm</text>
+<text transform="translate(36,85) rotate(-90)" font-size="10" style="fill:rgb(58, 83, 139)">Dank u</text>
+<text transform="translate(137,18)" font-size="10" style="fill:rgb(55, 90, 140)">Takk</text>
+<text transform="translate(212,139)" font-size="10" style="fill:rgb(72, 28, 110)">Mange tak</text>
+<text transform="translate(9,192)" font-size="10" style="fill:rgb(112, 207, 87)">Kiitos</text>
+<text transform="translate(71,34)" font-size="7" style="fill:rgb(53, 95, 141)">Paljon kiitoksia</text>
+<text transform="translate(268,18)" font-size="7" style="fill:rgb(37, 131, 142)">Dankie</text>
+<text transform="translate(11,100)" font-size="7" style="fill:rgb(139, 214, 70)">Mulțumesc</text>
+<text transform="translate(179,150) rotate(-90)" font-size="7" style="fill:rgb(31, 153, 138)">Multumesc</text>
+<text transform="translate(345,103)" font-size="7" style="fill:rgb(72, 41, 121)">Hvala</text>
+<text transform="translate(124,182)" font-size="7" style="fill:rgb(32, 146, 140)">Ačiū</text>
+<text transform="translate(229,39)" font-size="7" style="fill:rgb(47, 180, 124)">Mersi</text>
+<text transform="translate(111,66)" font-size="7" style="fill:rgb(231, 228, 25)">Dankon</text>
+<text transform="translate(242,165)" font-size="7" style="fill:rgb(71, 44, 122)">Diolch</text>
+<text transform="translate(328,37)" font-size="7" style="fill:rgb(197, 224, 33)">Eskerrik asko</text>
+<text transform="translate(219,129)" font-size="7" style="fill:rgb(46, 179, 124)">Mahadsanid</text>
+</svg>
