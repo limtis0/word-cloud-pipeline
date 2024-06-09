@@ -1,0 +1,1 @@
+This is a smaller init.csv version. Otherwise, the file size would be too big
